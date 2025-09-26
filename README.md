@@ -3,7 +3,7 @@ Advanced Digital Logic (Mar 2025 - May 2025)\
 Xilinx Basys2 FPGA, VHDL
 
 ### Lab 1: Combinational circuits
-Implement a 4-input NAND gate, a half adder, a 4-bit binary adder, minterm operation, and 8:1 MUX.\
+Implement a 4-input NAND gate, half adder, 4-bit binary adder, minterm operation, and 8:1 MUX.\
 Validate behavior with testbench.
 
 ### Lab 2: ALU

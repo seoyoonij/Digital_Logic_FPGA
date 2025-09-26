@@ -1,5 +1,5 @@
 # ENGR-UH-2310_ADL
-Advanced Digital Logic (Mar 2025 - May 2025)
+Advanced Digital Logic (Mar 2025 - May 2025)\
 Xilinx Basys2 FPGA, VHDL
 
 ### Lab 1: Combinational circuits

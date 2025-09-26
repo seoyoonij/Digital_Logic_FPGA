@@ -1,6 +1,6 @@
-# ENGR-UH-2310_ADL
-Advanced Digital Logic (Mar 2025 - May 2025)\
-Xilinx Basys2 FPGA, VHDL
+# Digital_Logic_FPGA
+This repository contains VHDL and FPGA projects completed as part of ENGR-UH-2310 (Advanced Digital Logic) at NYU Abu Dhabi (Mar 2025 - May 2025).\
+Tools: Xilinx Basys2 FPGA, VHDL
 
 ### Lab 1: Combinational circuits
 Implement a 4-input NAND gate, half adder, 4-bit binary adder, minterm operation, and 8:1 MUX.\
